@@ -1,0 +1,9 @@
+# vim cache files
+*.swp
+
+# JetBrains project files
+.idea
+
+# ignore benchmark target file
+target
+
